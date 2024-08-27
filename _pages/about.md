@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a postgraduate student of the MASt in Theoretical Physics programme (Part III) at University of Cambridge. I previously obtained a BSc degree and a MSc degree at Imperial College London, both majored in theoretical physics, with theses supervised by [Prof. Andrew Tolley](https://profiles.imperial.ac.uk/a.tolley) and [Prof. Carlo Contaldi](https://profiles.imperial.ac.uk/c.contaldi), respectively.
 
-My primary research interest includes Quantum Field Theory, General Relativity and Cosmology, which are the topics of my BSc and MSc theses. But I also worked on Experimental High Energy Physics and Theoretical Nuclear Physics during summer breaks at Portuguese ([LIP](https://lip.pt/?section=about&page=presentation&lang=en)) and Japanese institutions ([RIKEN](https://www.riken.jp/en/) and [University of Tokyo](https://www.u-tokyo.ac.jp/en/)). The theses and reports can be accessed in the ['Theses & Report'](https://jeanyunqiluo.github.io//cv/) section.
+My primary research interest includes Quantum Field Theory, General Relativity and Cosmology, which are the topics of my BSc and MSc theses. But I also worked on Experimental High Energy Physics and Theoretical Nuclear Physics during summer breaks at Portuguese ([LIP](https://lip.pt/?section=about&page=presentation&lang=en)) and Japanese institutions ([RIKEN](https://www.riken.jp/en/) and [University of Tokyo](https://www.u-tokyo.ac.jp/en/)). The theses and reports can be accessed on the [Theses & Reports](https://jeanyunqiluo.github.io//cv/) page.
 
 Education
 ======
