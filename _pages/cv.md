@@ -9,56 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+MSc thesis - Gertsenshtein Mechanism and its Potential Applications in Gravitational Waves Detection
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*Supervised by [Prof. Carlo Contaldi](https://profiles.imperial.ac.uk/c.contaldi). Coming soon.
 
-Work experience
+BSc thesis - Fifth Force and Vainshtein Mechanism
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*Supervised by [Prof. Andrew Tolley](https://profiles.imperial.ac.uk/a.tolley), assessed by [Prof. Claudia de Rham](https://profiles.imperial.ac.uk/c.de-rham). Available: [BSc thesis](../files/BScThesis.pdf).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Summer internship in Japan - Analytical Implementation of Generalized Gradient Approximation in Functional Renormalisation Group aided Density Functional Theory 
+======
+*Supervised by [Dr. Haozhao Liang](https://tnp.phys.s.u-tokyo.ac.jp/en/members.html). Paper to be published soon.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+LIP internship report - Measurement of B+ and B0 meson cross sections in pp collisions at the LHC
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Supervised by [Prof. Nuno Leonardo](https://www.cienciavitae.pt/portal/en/BA1D-676F-76F5). Available: [LIP report](../files/LIPreport.pdf).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
