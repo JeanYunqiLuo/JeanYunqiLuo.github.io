@@ -22,5 +22,5 @@ Honours
 * Hawkes Henderson Studentship in Astrophysics and Cosmology for 2024/2025 academic year (Full Funding)
 * Dean's list for 2022/2023 academic year (Year 3)
 * Top 10 at Mathematics Academic Olympiad 2019; Normandy, France
-* Best student in class 'Prix de l'Amicale 2018' at Lycée Jean-Baptiste de La Salle in Seconde ($\approx$ 1st year of A-level)
+* Best student in class 'Prix de l'Amicale 2018' at Lycée Jean-Baptiste de La Salle in Seconde (~1st year of A-level)
 * Champion (Gold Medal) for "La Course Aux Nombres" 2016; Asia Pacific Zone
