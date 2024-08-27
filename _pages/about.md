@@ -13,14 +13,20 @@ My primary research interest includes Quantum Field Theory, General Relativity a
 
 Education
 ======
-* MASt in Theoretical Physics, University of Cambridge, 2024-2025 (expected)
-* MSc in Quantum Fields and Fundamental Forces, Imperial College London, 2023-2024
-* BSc in Physics with Theoretical Physics, Imperial College London, 2020-2023
+* MASt in Theoretical Physics, University of Cambridge, 2024-2025 (expected).
+* MSc in Quantum Fields and Fundamental Forces, Imperial College London, 2023-2024: Pass with Distinction.
+* BSc in Physics with Theoretical Physics, Imperial College London, 2020-2023: First Class Honours.
 
 Honours
 ======
-* Hawkes Henderson Studentship in Astrophysics and Cosmology for 2024/2025 academic year (Full Funding)
-* Dean's list for 2022/2023 academic year (Year 3)
-* Top 10 at Mathematics Academic Olympiad 2019; Normandy, France
-* Best student in class 'Prix de l'Amicale 2018' at Lycée Jean-Baptiste de La Salle in Seconde (~1st year of A-level)
-* Champion (Gold Medal) for "La Course Aux Nombres" 2016; Asia Pacific Zone
+* Hawkes Henderson Studentship in Astrophysics and Cosmology for 2024/2025 academic year (Full Funding).
+* Dean's list for 2022/2023 academic year (Year 3).
+* Top 10 at Mathematics Academic Olympiad 2019; Normandy, France.
+* Best student in class 'Prix de l'Amicale 2018' at Lycée Jean-Baptiste de La Salle in Seconde (~1st year of A-level).
+* Champion (Gold Medal) for "La Course Aux Nombres" 2016; Asia Pacific Zone.
+
+Computing Skills
+======
+* Programming languages: Python and C++, applied to research problems in particle physics, astronomy, thermodynamics etc.
+* Knowledge of CERN's ROOT software (including the use of RooFit package in analysis), applied in the summer internship at LIP.
+* Proficient in Windows and knowledge of Unix/Linux, knowledge of Wolfram Mathematica, proficient in Office softwares, LaTeX.
