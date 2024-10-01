@@ -20,6 +20,7 @@ Education
 Honours
 ======
 * Hawkes Henderson Studentship in Astrophysics and Cosmology for 2024/2025 academic year (Full Funding).
+* Tyndall Prize for 2022/2023, awarded annually to the most outstanding undergraduate final year project.
 * Dean's list for 2022/2023 academic year (Year 3).
 * Top 10 at Mathematics Academic Olympiad 2019; Normandy, France.
 * Best student in class 'Prix de l'Amicale 2018' at Lycée Jean-Baptiste de La Salle in Seconde (~1st year of A-level).
