@@ -11,7 +11,7 @@ redirect_from:
 
 MSc thesis - Gertsenshtein Mechanism and its Potential Applications in Gravitational Waves Detection
 ------
-Supervised by [Prof. Carlo Contaldi](https://profiles.imperial.ac.uk/c.contaldi). Coming soon. 30th May 2024 — 20th September 2024.
+Supervised by [Prof. Carlo Contaldi](https://profiles.imperial.ac.uk/c.contaldi). Available: [MSc thesis](../files/MScThesis.pdf). 30th May 2024 — 20th September 2024. Currenly working on turning this dissertation into a publication, aiming at Classical and Quantum Gravity. Draft avaliable for PhD applications upon request (comittee or potential supervisor).
 
 BSc thesis - Fifth Force and Vainshtein Mechanism
 ------
