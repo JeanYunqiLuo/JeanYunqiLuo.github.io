@@ -14,7 +14,7 @@ My primary research interest includes Quantum Field Theory, General Relativity a
 Education
 ======
 * MASt in Theoretical Physics, University of Cambridge, 2024-2025 (expected).
-* MSc in Quantum Fields and Fundamental Forces, Imperial College London, 2023-2024: Pass with Distinction.
+* MSc in Quantum Fields and Fundamental Forces, Imperial College London, 2023-2024: Pass with Distinction. [Handbook for 2023-2024 Academic Year]([MSc thesis](../files/QFFFhandbook23to24.pdf)).
 * BSc in Physics with Theoretical Physics, Imperial College London, 2020-2023: First Class Honours.
 
 Honours
