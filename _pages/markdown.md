@@ -22,7 +22,7 @@ Laboratoire d'Annecy-le-Vieux de Physique Théorique, France; 25-28th Sep 2023.
 
 First EuCAPT School on Cosmology
 ------
-_University of Valencia & Instituto de Fisica Corpuscular, Spain; 18-22nd Sep 2023.
+University of Valencia & Instituto de Fisica Corpuscular, Spain; 18-22nd Sep 2023.
 
 DArk Energy: from Fundamental Theories to Observations 
 ------
